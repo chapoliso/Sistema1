@@ -1,5 +1,20 @@
 # SISTEMA DE VENDAS
+Python 3.X e SQLite
 
-Um sistema de vendas, sem gui so por linha de comandos, 
-a pessoa vai fazer um cadastro e la vai ter as opcao pra ela por no carrinho ao finalizar ela vai listar os produtos e ver o total de produto pra ser pago, quando pagar finaliza e sai.
-ae também tem o adm que ele vai ter o longin dele e vai repor os produtos, preco e quantidade na pratilheira.
+# Objetivo
+Desenvolver uma aplicação que realize a venda de produtos com login de clientes e adm para repor o estoque.
+Explorando todos os recurso basicos do python com algumas funçoes e biblioteca aprendida em sala de aula.
+
+# Requisitos
+* Cliente vai cadastrar
+* Entrar com Login e senha.
+* Admin com senha padrao pra repor produto.
+* Listar produtos.
+* Cada item tem ID, Nome de produto, preço e quantidate em estoque.
+* Adicionar os Produtos no carrinhos.
+* Listar produtos e preço a ser pago.
+* Finalizar Compra.
+ Quero explorar todos os def e bibliotecas.
+ 
+#
+
